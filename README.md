@@ -34,7 +34,7 @@ If you forget to uncheck that box, you can still get access to the other branche
 
 ### Change Paragraph Text Color
 
-3. [ ] Change the color of all paragraph text to blue by adding the following CSS rule:
+3. [x] Change the color of all paragraph text to blue by adding the following CSS rule:
 
     ```css
     p {
@@ -44,7 +44,7 @@ If you forget to uncheck that box, you can still get access to the other branche
 
 ### Set Background Color
 
-4. [ ] Set a background color for the entire page by adding the following CSS rule:
+4. [ x] Set a background color for the entire page by adding the following CSS rule:
 
     ```css
     body {
